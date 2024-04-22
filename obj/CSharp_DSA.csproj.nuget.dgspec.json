@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\Dotnet_DSA\\CSharp_DSA\\CSharp_DSA.csproj": {}
+    "C:\\Users\\jayan\\Downloads\\New folder\\MyDSAProblems\\CSharp_DSA.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\Dotnet_DSA\\CSharp_DSA\\CSharp_DSA.csproj": {
+    "C:\\Users\\jayan\\Downloads\\New folder\\MyDSAProblems\\CSharp_DSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\Dotnet_DSA\\CSharp_DSA\\CSharp_DSA.csproj",
+        "projectUniqueName": "C:\\Users\\jayan\\Downloads\\New folder\\MyDSAProblems\\CSharp_DSA.csproj",
         "projectName": "CSharp_DSA",
-        "projectPath": "D:\\Programs\\Dotnet_DSA\\CSharp_DSA\\CSharp_DSA.csproj",
+        "projectPath": "C:\\Users\\jayan\\Downloads\\New folder\\MyDSAProblems\\CSharp_DSA.csproj",
         "packagesPath": "C:\\Users\\jayan\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\Dotnet_DSA\\CSharp_DSA\\obj\\",
+        "outputPath": "C:\\Users\\jayan\\Downloads\\New folder\\MyDSAProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
